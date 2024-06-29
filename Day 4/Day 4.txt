@@ -1,0 +1,11 @@
+This is gonna be uploaded with day 3.
+
+1.Head or tails:
+    Gives head or tails using random number.
+2.Banker Algo:
+    Decides who pays the bill. Basically a tool for riches.
+3.Treasure Quest:
+    Select the row and column and add a mark "X" or whatever you want to put at the certain spot.
+4.Rock Paper Scissors:
+    Uses all the randomization learnt and apply it to play a game with the computer. Quite fun to play actually.
+    
