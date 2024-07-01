@@ -1,0 +1,16 @@
+Today we worked with loops in python including all the things we have studied before this.
+
+1.Average Height Calculator
+    This program takes input of the heights from a class of students and give the average of heights.
+
+2.Heighest Score
+    This program gives the Heighest score from the input string with the help of for loop instead of using max function.
+
+3.Sum of Even Numbers:
+    This program gives the sum of all the even numbers from 1-100 including 1 and 100 using for loop.
+
+4.Fizz Buzz:
+    This is a game played by kids. It gives fuzz when the output fuzz when the number is divisible by 3 and gives bizz when the number is divisilbe by 5. Lastly gives FuzzBizz when the number is divisibleby both 3 and 5.
+
+5.Password Generator:
+    This is a random Password generator which gives an edger over the hackers. Generates Password on the basis of input which is given by the user.
